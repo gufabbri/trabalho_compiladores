@@ -1,0 +1,10 @@
+   function main
+           var a = 32$
+           var b = 24$
+           if (a isequal b)
+                   WRITE a$
+           else
+                   WRITE b$
+           end
+   end
+
